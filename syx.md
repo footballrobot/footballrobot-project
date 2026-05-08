@@ -2,6 +2,11 @@
 
 第五周：机器人有概率踢球进门。
 
+
+https://github.com/user-attachments/assets/04da98e3-6971-42fd-9a86-06c22f225a62
+
+
+
 第四周：现在机器人能踢到球了，不过是以一种很特别的方式，它把自己的一只脚停在原地，另一只脚紧贴着地面做圆周运动。
 发现问题出在地面摩擦力过小，提高了摩擦系数。
 
@@ -21,5 +26,11 @@
 
 
 https://github.com/user-attachments/assets/50697cfd-4dd1-4363-bbef-b188ed9269cb
+
+
+
+https://github.com/user-attachments/assets/f00060b9-b42a-4b1d-b430-aeac5ae6216b
+
+
 
 
