@@ -17,3 +17,9 @@
 第一次完成机器人训练，50万次，能站稳了。
 测试fork功能
 [训练.docx](https://github.com/user-attachments/files/26437154/default.docx)
+
+
+
+https://github.com/user-attachments/assets/50697cfd-4dd1-4363-bbef-b188ed9269cb
+
+
