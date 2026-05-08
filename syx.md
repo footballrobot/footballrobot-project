@@ -16,6 +16,11 @@ https://github.com/user-attachments/assets/04da98e3-6971-42fd-9a86-06c22f225a62
 [训练g1.docx](https://github.com/user-attachments/files/26437220/g1.docx)
 [训练记录.docx](https://github.com/user-attachments/files/26437226/default.docx)
 
+https://github.com/user-attachments/assets/50697cfd-4dd1-4363-bbef-b188ed9269cb
+
+
+
+https://github.com/user-attachments/assets/f00060b9-b42a-4b1d-b430-aeac5ae6216b
 
 第一周：
 创建了github账号和仓库。
@@ -25,11 +30,7 @@ https://github.com/user-attachments/assets/04da98e3-6971-42fd-9a86-06c22f225a62
 
 
 
-https://github.com/user-attachments/assets/50697cfd-4dd1-4363-bbef-b188ed9269cb
 
-
-
-https://github.com/user-attachments/assets/f00060b9-b42a-4b1d-b430-aeac5ae6216b
 
 
 
