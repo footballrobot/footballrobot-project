@@ -1,3 +1,16 @@
+6.5:
+将机器人分为蓝 / 红两队、进行3v3 训练模式，搭建了赛事管理器，统一进球奖惩、球与奖杯管理，对称坐标优化，选择红蓝共用单个 AI 模型
+
+5.29:
+G1SoccerAgent.OnActionReceived()
+  → 输出 vr / vd / wr
+  → 写入 G1randAgent.vr / .vd / .wr
+
+G1randAgent.CollectObservations()
+  → 读取 vr / vd / wr 作为目标速度命令观测
+  → g1rand.onnx 推理
+  → OnActionReceived() 控制 12 个关节
+
 第八周：实现了机器人大概率踢进球门。实现了机器人和球出界的时候传送到地图其它位置（因为有8个场地并行运行，还遇到了用世界坐标，而不是各自场地坐标的问题）。实现了踢进球的时候出现一个奖杯的功能。
 
 
