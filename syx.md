@@ -1,7 +1,7 @@
-6.5:
+*** 6.5:
 将机器人分为蓝 / 红两队、进行3v3 训练模式，搭建了赛事管理器，统一进球奖惩、球与奖杯管理，对称坐标优化，选择红蓝共用单个 AI 模型
 
-5.29:
+*** 5.29:
 G1SoccerAgent.OnActionReceived()
   → 输出 vr / vd / wr
   → 写入 G1randAgent.vr / .vd / .wr
