@@ -21,3 +21,12 @@ https://github.com/user-attachments/assets/4088fe89-5bd3-49f7-849f-da8c0b57c1e4
 ### 4.24
 - 进度不大，参数尚未调至合适，且出现了机器人开始背对着球训练问题
 
+### 5/15 
+- 修改了代码  新增场地边界参数配置，球体出界自动重置且清零速度。补全球门触发器脚本与标签绑定，然后加大步长惩罚力度
+
+### 5/29 
+- 协助解决机器人训练后No episode was completed since last summary.的问题
+
+### 6/5 
+- 开始进行3v3模型训练
+
